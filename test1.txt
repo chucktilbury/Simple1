@@ -1,0 +1,39 @@
+
+class:dslkfj8976() {
+    func:something()() {
+        return;
+        this = 123;
+    }
+}
+
+class:asdf(asdf,werr){
+    int:  oiuo  = 1234;
+    string:sdf123 = "asd fj 343 \x123 qwe";
+    string:blart='asdf sdf sdf';
+    func:qwert(int:blart, string:asdf)(int:wer) {
+        int:bakon=123 + 2 * 6;
+        avalue = 12 * 2 / 3;
+    }
+    func:create(){} 
+    func:destroy(){}
+}
+import:jdf1234;
+
+#
+    this is
+    a comment
+#
+
+
+import:jdf12_34;
+
+class:dslkfj8976() {
+    func:something()() {
+        string:str = "this is a ster";
+        val = 123;
+        this.that = 123^3;
+        bakon=123^2;
+        avalue = 12;
+        eggs = 'this is a string';
+    }
+}
