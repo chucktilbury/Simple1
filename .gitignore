@@ -1,0 +1,6 @@
+*.o 
+parser.output
+parser.c
+parser.h
+scanner.c
+simple
